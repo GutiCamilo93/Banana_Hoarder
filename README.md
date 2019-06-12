@@ -2,11 +2,11 @@
 
 
 
-1. Introduction
+## Introduction
 
 This repository is the solution for the first assignment in the Udacity Deep Reinforcement Learning Nano Degree. The goal was to train an agent using DQN (Deep Q Learning) that was able to navigate sucessfuly the environment the "bananas environment" made by Unity ML Agent and collect enough rewards, represented as bananas, in order to achieve a score above a certain threshold. This is why we named our agent the "Bananahoarder". We'll by introducing the Project details.
 
-2.Project details
+## Project details
 
 The following iterals contains the description of the environment
 
@@ -35,7 +35,7 @@ It is important to note that the agent doesn't act directly with the environment
 The task is episodic (it is not eternal, it ends after a while), and the environment is considered solved when the agent achieves an average score of +13 over a window of 100 consecutive episodes. 
 
 
-3. Getting started
+## Getting started
 
 	a. Unity ML Agents:
 
@@ -55,7 +55,7 @@ The task is episodic (it is not eternal, it ends after a while), and the environ
 		iii. Navigation
 			This jupyter notebook uses the two previous files and details the training process. This is the only file you need to run in order to train the agent. PLEASE DON'T LOOK AT UNITY WHILE TRAINING (it will crash and you wil have to reboot your computer and start over again, not before siting in you chair crying for half an hour).
 
-4. Instructions
+## Instructions
 
 Just as highlighted above if you want to train the model from scratch run the navigation jupyter notebook. Otherwise you can use the pretrained checkpoint provided in the repository.   
 
