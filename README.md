@@ -53,7 +53,7 @@ Have fun! The implentation of the DQN has three files: model.py, dqn_agent.py, N
 * dqn_agents.py
 -This file creates the agent used but the reinforcement algorithm. if you wish to modify the ANN, start here.
 * Navigation
--This jupyter notebook uses the two previous files and details the training process. This is the only file you need to run in order to train the agent. PLEASE DON'T LOOK AT UNITY WHILE TRAINING (it will crash and you wil have to reboot your computer and start over again, not before siting in you chair crying for half an hour).
+-This jupyter notebook uses the two previous files and details the training process. This is the only file you need to run in order to train the agent. PLEASE DON'T LOOK AT UNITY WHILE TRAINING (it will crash and you wil have to reboot your computer and start over again, not before siting in your chair crying for half an hour).
 
 ## Instructions
 
