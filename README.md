@@ -1,6 +1,4 @@
-################################################################
-######################### DQN REPORT ###########################
-################################################################
+# DQN Report
 
 
 
@@ -41,7 +39,7 @@ The task is episodic (it is not eternal, it ends after a while), and the environ
 
 	a. Unity ML Agents:
 
-	First you must install the Unity toolkit. You'll find the instruction in this link, please 	      don't dispair this is probably the hardest step: <href>< https://github.com/udacity/deep-reinforcement-learning#dependencies>
+	First you must install the Unity toolkit. You'll find the instruction in this link, please 	      don't dispair this is probably the hardest step: <href>https://github.com/udacity/deep-reinforcement-learning#dependencies
 	
 	b. Install
 	
