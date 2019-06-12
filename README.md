@@ -39,7 +39,7 @@ The task is episodic (it is not eternal, it ends after a while), and the environ
 
 a. Unity ML Agents:
 
-First you must install the Unity toolkit. You'll find the instruction in this link, please 	      don't dispair this is probably the hardest step: <href>https://github.com/udacity/deep-reinforcement-learning#dependencies
+First you must install the Unity toolkit. You'll find the instruction in this link, please don't dispair, this is probably the hardest step: <href>https://github.com/udacity/deep-reinforcement-learning#dependencies
 	
 b. Install
 	
@@ -53,7 +53,7 @@ Have fun! The implentation of the DQN has three files: model.py, dqn_agent.py, N
 * dqn_agents.py
 -This file creates the agent used but the reinforcement algorithm. if you wish to modify the ANN, start here.
 * Navigation
--This jupyter notebook uses the two previous files and details the training process. This is the only file you need to run in order to train the agent. PLEASE DON'T LOOK AT UNITY WHILE TRAINING (it will crash and you wil have to reboot your computer and start over again, not before siting in your chair crying for half an hour).
+-This jupyter notebook uses the two previous files and details the training process. This is the only file you need to run in order to train the agent. PLEASE DON'T LOOK AT UNITY WHILE TRAINING (it will crash and you will have to reboot your computer and start over again, not before siting in your chair crying for half an hour).
 
 ## Instructions
 
